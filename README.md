@@ -83,5 +83,4 @@ Based on the SQL analysis, the following strategic actions are recommended:
 ---
 
 ## 📬 Contact
-**Mahesh Katula** *Connect with me on LinkedIn to discuss data analytics and SQL!*
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/mahesh-katula-mk777)
+**Mahesh Katula** *Connect with me on LinkedIn!* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahesh-katula-mk777)
